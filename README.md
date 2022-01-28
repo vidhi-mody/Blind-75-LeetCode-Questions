@@ -8,7 +8,7 @@ Dynamic Programming
 
 Graph
 
-- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) ✅ 🟠
 
 Interval
 
