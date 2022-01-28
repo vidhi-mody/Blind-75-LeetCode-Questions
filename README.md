@@ -1,6 +1,6 @@
 Array
-- [Two Sum](https://leetcode.com/problems/two-sum/) ✅ 
-- [3Sum](https://leetcode.com/problems/3sum/) ✅ 
+- [Two Sum](https://leetcode.com/problems/two-sum/) ✅ 🟢
+- [3Sum](https://leetcode.com/problems/3sum/) ✅ 🟠
   
 Binary
 
@@ -13,7 +13,9 @@ Interval
 Linked List
 
 Matrix
--[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) ✅
+
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) ✅ 🟢
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) ✅ 🟠
 
 String
 
