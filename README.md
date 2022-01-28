@@ -8,6 +8,8 @@ Dynamic Programming
 
 Graph
 
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
 Interval
 
 Linked List
