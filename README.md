@@ -10,6 +10,7 @@ Graph
 
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) ✅ 🟠
 - [Number of Islands](https://leetcode.com/problems/number-of-islands/) ✅ 🟢
+- [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) ✅ 🟢
 
 Interval
 
