@@ -7,6 +7,8 @@ Binary
 
 Dynamic Programming
 
+- [House Robber](https://leetcode.com/problems/house-robber/) ✅ 🟠
+
 Graph
 
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) ✅ 🟠
